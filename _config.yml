@@ -1,0 +1,23 @@
+name: How about this one
+favicon: null
+layout_spectrum: 0.19294722541235387
+typography_spectrum: 0.06296274927444756
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5051787700504065
+  lightness: 0.5629430103581399
+  saturation: 0.1498362913262099
+  rhythmicContrast: 0.6495541529729962
+purpose: []
